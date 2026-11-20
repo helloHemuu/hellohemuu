@@ -1,18 +1,66 @@
-# 💫 About Me:
-🔭 I’m currently working on academic and personal AI/ML projects  <br>👯 I’m looking to collaborate on open-source and beginner-friendly projects  <br>🤝 I’m looking to improve my skills through collaborative projects  <br>🌱 I’m currently learning AI, Machine Learning, Python and Data Science  <br>💬 Ask me about Python, AIML and my projects  <br>⚡ Fun fact: I believe every project is an opportunity to learn something new!
+<h1 align="center">Hi 👋, I'm an AIML Student</h1>
 
+<h3 align="center">Aspiring AI/ML Engineer | Python Developer | Tech Enthusiast</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soniyaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemlata rajak) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hemlata&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hemlata&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hemlata&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hemlata&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Student specializing in Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Machine Learning, Data Science and Backend Development
+- 🤖 Interested in AI, ML, Data Analytics and Software Development
+- 🚀 Building projects to solve real-world problems
+- 📚 Always exploring new technologies and improving my skills
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,fastapi,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🏙️ Urban Ripple Engine – Urban data analysis and prediction.
+- 🤖 Machine Learning Projects – Exploring practical ML applications.
+- 📊 Data Analytics – Data analysis and visualization projects.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>Learning, building, and growing one project at a time ✨</i>
+</p>
